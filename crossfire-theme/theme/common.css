@@ -190,6 +190,7 @@ a:hover	{ text-decoration: underline; }
 
 .site-description h1 {
 	margin-right: 0;
+	float: left;
 }
 
 /* Round cornered boxes and backgrounds
