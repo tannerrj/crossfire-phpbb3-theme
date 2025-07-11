@@ -100,12 +100,23 @@ a:hover { color: #558855; }
 }
 */
 
+.headerbar, .forumbg, .forabg {
+	background-color: #669966;
+	background-image: -webkit-linear-gradient(top, #99cc99 0%, #4d734d 2px, #669966 92px, #669966 100%);
+	background-image: linear-gradient(to bottom, #99cc99 0%, #4d734d 2px, #669966 92px, #669966 100%);
+	background-repeat: repeat-x;
+}
+
+/* .headerbar background for Crossfire: #669966 */
+
+/*
 .forabg {
 	background-color: #0076B1;
 	background-image: -webkit-linear-gradient(top, #6ACEFF 0%, #12A3EB 2px, #0076B1 92px, #0076B1 100%);
 	background-image: linear-gradient(to bottom, #6ACEFF 0%,#12A3EB 2px,#0076B1 92px,#0076B1 100%);
 	background-repeat: repeat-x;
 }
+*/
 
 .navbar {
 	background-color: #CADCEB;
