@@ -31,8 +31,8 @@ hr {
 Colours and backgrounds for links.css
 -------------------------------------------------------------- */
 
-a { color: #105289; }
-a:hover { color: #D31141; }
+a { color: #335533; }
+a:hover { color: #558855; }
 
 /* Links on gradient backgrounds */
 .forumbg .header a, .forabg .header a, th a {
