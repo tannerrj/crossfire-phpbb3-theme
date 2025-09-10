@@ -10,17 +10,9 @@ Since code updates or upgrades on the server host can result in the Crossfire ce
 
 ## Project Site
 
-GitHub project url TBA
+GitHub project url <https://github.com/tannerrj/crossfire-phpbb3-theme>
 
 Crossfire at <https://sourceforge.net/projects/crossfire/>
-
-## Download
-
-TBA
-
-## Project Site
-
-TBA
 
 ## Download
 
