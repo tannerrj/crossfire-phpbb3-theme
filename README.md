@@ -10,21 +10,18 @@ Since code updates or upgrades on the server host can result in the Crossfire ce
 
 ## Project Site
 
-GitHub project url <https://github.com/tannerrj/crossfire-phpbb3-theme>
-
-Crossfire at <https://sourceforge.net/projects/crossfire/>
-
-Crossfire phpBB3 Forum at <https://forum.cross-fire.org/phpBB3/>
+ * GitHub project url <https://github.com/tannerrj/crossfire-phpbb3-theme>
+ * Crossfire at <https://sourceforge.net/projects/crossfire/>
+ * Crossfire phpBB3 Forum at <https://forum.cross-fire.org/phpBB3/>
 
 ## Download
 
-<https://github.com/tannerrj/crossfire-phpbb3-theme/releases/tag/release>
+ * <https://github.com/tannerrj/crossfire-phpbb3-theme/releases/tag/release>
 
 ## License
 
-HTML and CSS code, GNU General Public License version 2.0 (GPLv2)
-
-Crossfire logo released under it's own license, <https://crossfire.real-time.com/license/#logo>
+ * HTML and CSS code, GNU General Public License version 2.0 (GPLv2)
+ * Crossfire logo released under it's own license, <https://crossfire.real-time.com/license/#logo>
 
 ## Release File Info
 
@@ -43,4 +40,3 @@ Refer to phpBB's site for theme installation instructions, <https://www.phpbb.co
  * [BlueSky](https://bsky.app/profile/crossfireproject.bsky.social)
  * [Facebook](https://www.facebook.com/crossfireproject/)
  * [Mastodon](https://mastodon.social/@crossfiremrpg)
-
